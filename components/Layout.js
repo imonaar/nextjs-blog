@@ -1,4 +1,4 @@
-import styles from "./layout.module.css";
+import styles from "./layouts.module.css";
 import Head from "next/head";
 import Image from "next/image";
 import utilStyles from "../styles/utils.module.css";
